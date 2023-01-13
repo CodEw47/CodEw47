@@ -54,13 +54,6 @@
 
 [![Linkedin: Carlos Eduardo](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/codew47/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:carlos.eduardo@revpay.com.br)
-[![GitHub Carlos Eduardo]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/CodEw47)
+[![GitHub Carlos Eduardo]( https://img.shields.io/github/followers/CodEw47?label=follow&style=social)](https://github.com/CodEw47)
 
-<!-- <br/>
-
-<a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
-</a>
-
-<br/> -->
 
