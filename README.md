@@ -18,14 +18,14 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![Ruby](https://img.shields.io/badge/Ruby-333333?style=flat&logo=ruby&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=white)
+  ![JS](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
+  ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=blue)
+  ![.NET](https://img.shields.io/badge/.NET-333333?style=flat&logo=dotnet&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-333333?style=flat&logo=laravel&logoColor=white)
+  ![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-333333?style=flat&logo=ruby-on-rails&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-333333?style=flat&logo=flask&logoColor=white)
 
 **Utilidades**
 
@@ -37,17 +37,17 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
-  ![Aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Aws](https://img.shields.io/badge/Amazon_AWS-333333?style=flat&logo=amazonaws&logoColor=white)
 
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/Heroku-333333?style=flat&logo=heroku&logoColor=white)
 
 **Gestão de Projetos**
 
-  ![Jira Software](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+  ![Jira Software](https://img.shields.io/badge/Jira-333333?style=flat&logo=Jira&logoColor=white)
 
 
 <br/>
