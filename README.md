@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=CodEw47&color=006bed)
+
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
@@ -55,5 +55,5 @@
 [![Linkedin: Carlos Eduardo](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/codew47/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:carlos.eduardo@revpay.com.br)
 [![GitHub Carlos Eduardo]( https://img.shields.io/github/followers/CodEw47?label=follow&style=social)](https://github.com/CodEw47)
-
+![](https://komarev.com/ghpvc/?username=CodEw47&color=006bed)
 
