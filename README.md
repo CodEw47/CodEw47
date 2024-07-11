@@ -52,7 +52,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Carlos Eduardo](https://img.shields.io/badge/-Carlos-Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codew47/)](https://www.linkedin.com/in/codew47/)
+[![Linkedin: Carlos Eduardo](https://img.shields.io/badge/-CarlosEduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codew47/)](https://www.linkedin.com/in/codew47/)
 [![Gmail Badge](https://img.shields.io/badge/-carlos.eduardo@revpay.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlos.eduardo@revpay.com.br)](mailto:carlos.eduardo@revpay.com.br)
 [![GitHub Carlos Eduardo]( https://img.shields.io/github/followers/CodEw47?label=follow&style=social)](https://github.com/CodEw47)
 ![](https://komarev.com/ghpvc/?username=CodEw47&color=006bed)
